@@ -1,1 +1,1 @@
-package com.alia.qa.model;/** * Created by Alia on 2016/12/23. */public class DemoResponseDTO {}
+package com.alia.qa.model;/** * Created by Alia on 2016/12/23. */public class DemoResponseDTO {    private int id;    private String name;    public int getId() {        return id;    }    public void setId(int id) {        this.id = id;    }    public String getName() {        return name;    }    public void setName(String name) {        this.name = name;    }}

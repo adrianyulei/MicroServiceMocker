@@ -1,0 +1,6 @@
+/Users/Alia/Documents/workspace/Netpay/MicroServiceMocker/src/main/java/com/alia/tools/App.java
+/Users/Alia/Documents/workspace/Netpay/MicroServiceMocker/src/main/java/com/alia/tools/container/MockServer.java
+/Users/Alia/Documents/workspace/Netpay/MicroServiceMocker/src/main/java/com/alia/tools/client/MockClient.java
+/Users/Alia/Documents/workspace/Netpay/MicroServiceMocker/src/main/java/com/alia/tools/entity/MockServiceInfoDTO.java
+/Users/Alia/Documents/workspace/Netpay/MicroServiceMocker/src/main/java/com/alia/tools/generic/AbstractServiceMock.java
+/Users/Alia/Documents/workspace/Netpay/MicroServiceMocker/src/main/java/com/alia/tools/MyProviderMockImpl.java
