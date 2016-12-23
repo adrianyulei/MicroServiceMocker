@@ -1,0 +1,1 @@
+package com.alia.qa.model;/** * Created by Alia on 2016/12/23. */public class DemoResponseDTO {}
