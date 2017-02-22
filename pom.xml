@@ -11,7 +11,7 @@
     <url>http://maven.apache.org</url>
     <dependencies>
 
-        <!-- Mock Service dependencies-->
+        <!-- Personal Service dependencies-->
         <dependency>
             <groupId>com.epcc.control</groupId>
             <artifactId>control-basedata-facade</artifactId>
